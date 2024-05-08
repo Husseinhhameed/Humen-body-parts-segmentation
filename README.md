@@ -2,11 +2,11 @@
 
 Welcome to the Human Body Part Segmentation Toolkit repository, a robust tool leveraging a pretrained model to perform detailed segmentation of human body parts from images. This project aims to facilitate advanced image analysis and applications in areas such as medical imaging, augmented reality, and motion capture.
 
-![Login Page](https://github.com/Husseinhhameed/PROSUITE/blob/master/pro.png)
+![Login Page](https://github.com/Husseinhhameed/PROSUITE/blob/master/pro.png](https://github.com/Husseinhhameed/Humen-body-parts-segmentation/blob/main/unnamed%20(1).png).
 
-![Login Page](https://github.com/Husseinhhameed/PROSUITE/blob/master/pro.png)
+![Login Page](https://github.com/Husseinhhameed/PROSUITE/blob/master/pro.png](https://github.com/Husseinhhameed/Humen-body-parts-segmentation/blob/main/unnamed%20(2).png).
 
-![Login Page](https://github.com/Husseinhhameed/PROSUITE/blob/master/pro.png)
+![Login Page](https://github.com/Husseinhhameed/PROSUITE/blob/master/pro.png](https://github.com/Husseinhhameed/Humen-body-parts-segmentation/blob/main/unnamed.png)
 
 ## Features
 
